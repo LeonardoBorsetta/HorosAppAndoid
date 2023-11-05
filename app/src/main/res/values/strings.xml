@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoroscApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="horoscope">Horoscopo</string>
+    <string name="palmistry">Palmistry</string>
+    <string name="luck">Luck</string>
+</resources>
